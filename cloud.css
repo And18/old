@@ -1,0 +1,59 @@
+.cloud-small {
+background: #efefef;
+height: 110px;
+width: 110px;
+position: absolute;
+top: 210px;
+left: 340px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}
+.cloud-big {
+background: #efefef;
+height: 180px;
+width: 180px;
+position: absolute;
+top: 170px;
+left: 390px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}
+.cloud-base {
+background: #efefef;
+height: 120px;
+width: 340px;
+position: absolute;
+top: 270px;
+left: 290px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}.cloud-small {
+background: #efefef;
+height: 110px;
+width: 110px;
+position: absolute;
+top: 210px;
+left: 340px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}
+.cloud-big {
+background: #efefef;
+height: 180px;
+width: 180px;
+position: absolute;
+top: 170px;
+left: 390px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}
+.cloud-base {
+background: #efefef;
+height: 120px;
+width: 340px;
+position: absolute;
+top: 270px;
+left: 290px;
+border-radius: 100em;
+box-shadow: 10px 10px 5px #adadad;
+}
